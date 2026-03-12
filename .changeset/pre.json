@@ -4,7 +4,5 @@
   "initialVersions": {
     "@bigstrider/greeting-package": "1.3.0"
   },
-  "changesets": [
-    "salty-owls-dance"
-  ]
+  "changesets": []
 }
