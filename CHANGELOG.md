@@ -1,5 +1,15 @@
 # @bigstrider/greeting-package
 
+## 1.4.0
+
+### Minor Changes
+
+- 44904a3: created night greeting feature
+
+### Patch Changes
+
+- 44904a3: fixing afternoon greeting file
+
 ## 1.3.0
 
 ### Minor Changes

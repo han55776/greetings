@@ -1,6 +1,6 @@
 {
   "name": "@bigstrider/greeting-package",
-  "version": "1.3.0",
+  "version": "1.4.0",
   "description": "This package is for greeting a person during the day",
   "type": "module",
   "main": "lib/index.cjs",
