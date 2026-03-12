@@ -1,5 +1,12 @@
 # @bigstrider/greeting-package
 
+## 2.0.0
+
+### Major Changes
+
+- 31ced95: added grumpy to monarch cats
+- 20bdb7c: created a mrnarch cats morning greet
+
 ## 1.4.1
 
 ### Patch Changes
