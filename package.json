@@ -1,5 +1,5 @@
 {
-  "name": "@codeef/greeting-package",
+  "name": "@bigstrider/greeting-package",
   "version": "1.2.0",
   "description": "This package is for greeting a person during the day",
   "type": "module",
