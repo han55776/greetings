@@ -16,6 +16,18 @@
 
 - 44904a3: fixing afternoon greeting file
 
+## 2.0.0-beta.1
+
+### Major Changes
+
+- 31ced95: added grumpy to monarch cats
+
+## 2.0.0-alpha.0
+
+### Major Changes
+
+- 20bdb7c: created a mrnarch cats morning greet
+
 ## 1.3.0
 
 ### Minor Changes
