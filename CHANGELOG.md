@@ -1,5 +1,11 @@
 # @codeef/greeting-package
 
+## 1.3.0
+
+### Minor Changes
+
+- e6afbdb: added afternoonGreeting function method
+
 ## 1.2.0
 
 ### Minor Changes
