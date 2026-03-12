@@ -1,5 +1,11 @@
 # @bigstrider/greeting-package
 
+## 1.4.1
+
+### Patch Changes
+
+- de96bee: night greet changed
+
 ## 1.4.0
 
 ### Minor Changes
