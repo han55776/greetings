@@ -1,5 +1,5 @@
 ---
-"@codeef/greeting-package": minor
+'@bigstrider/greeting-package': minor
 ---
 
 added afternoonGreeting function method

@@ -1,4 +1,4 @@
-# @codeef/greeting-package
+# @bigstrider/greeting-package
 
 ## 1.2.0
 
