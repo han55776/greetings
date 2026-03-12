@@ -1,5 +1,11 @@
 # @codeef/greeting-package
 
+## 2.0.0-alpha.0
+
+### Major Changes
+
+- 20bdb7c: created a mrnarch cats morning greet
+
 ## 1.3.0
 
 ### Minor Changes
