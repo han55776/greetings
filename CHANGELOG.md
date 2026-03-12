@@ -4,6 +4,12 @@
 
 ### Minor Changes
 
+- b5a2544: fixed package name
+
+## 1.3.0
+
+### Minor Changes
+
 - e6afbdb: added afternoonGreeting function method
 
 ## 1.2.0
