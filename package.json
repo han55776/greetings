@@ -1,6 +1,7 @@
 {
   "name": "@bigstrider/greeting-package",
   "version": "2.0.0-beta.1",
+
   "description": "This package is for greeting a person during the day",
   "type": "module",
   "main": "lib/index.cjs",
@@ -21,7 +22,7 @@
     "build": "rollup -c",
     "release-package": "npm run build && npx changeset publish"
   },
-  "author": "codeef",
+  "author": "bigstrider",
   "license": "MIT",
   "devDependencies": {
     "@changesets/cli": "^2.27.7",

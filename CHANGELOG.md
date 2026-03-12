@@ -1,4 +1,20 @@
-# @codeef/greeting-package
+# @bigstrider/greeting-package
+
+## 1.4.1
+
+### Patch Changes
+
+- de96bee: night greet changed
+
+## 1.4.0
+
+### Minor Changes
+
+- 44904a3: created night greeting feature
+
+### Patch Changes
+
+- 44904a3: fixing afternoon greeting file
 
 ## 2.0.0-beta.1
 
